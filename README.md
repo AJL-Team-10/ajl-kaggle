@@ -52,6 +52,8 @@ Fluctuations: Small ups and downs in the validation accuracy might be due to nat
 
 A simple visual representation to better demonstrate:
 
+![training graph](https://github.com/user-attachments/assets/7b135a28-3d8b-432f-82df-a2e6a4075ab2)
+
 ## Impact Narrative:
 Throughout the project, we confronted a deeply relevant real-world challenge: how can AI be used not only to identify dermatological conditions but also to do so equitably across all skin tones, particularly those historically excluded from training datasets?
 
